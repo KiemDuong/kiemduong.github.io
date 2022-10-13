@@ -3,7 +3,7 @@ title: Kiem Duong
 description: Personal web page of Kiem Duong
 author: 
   twitter: DuongvanKiem
-url: 'https://kiemduong.github.io/'
+url: 'https://kiemduong.github.io'
 twitter:
   username: Kiem Duong
 social:
@@ -27,8 +27,8 @@ tagline: Technology Generalist
 pic: profile.png
 
 #Sidebar links
-website: https://kiemduong.github.io/
-websitealt: https://kiemduong.github.io/
+website: https://kiemduong.github.io
+websitealt: https://kiemduong.github.io
 linkedin: kiemduong77
 github: kiemduong
 twitter: DuongvanKiem
