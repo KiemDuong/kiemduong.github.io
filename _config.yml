@@ -1,0 +1,37 @@
+
+title: Christian Elsen
+description: Personal web page of Christian Elsen
+author: 
+  twitter: ChristianElsen
+url: 'https://chris.elsen.xyz'
+twitter:
+  username: ChristianElsen
+social:
+  name: Christian Elsen
+  links:
+    - https://twitter.com/ChristianElsen
+    - https://www.linkedin.com/in/ChristianElsen
+    - https://plus.google.com/+ChristianElsen
+    - https://github.com/chriselsen
+seo:
+  type: Person
+markdown: kramdown
+highlighter: rouge
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+#Profile information
+name: Christian Elsen
+tagline: Technology Generalist
+pic: profile.png
+
+#Sidebar links
+website: edge-cloud.net
+websitealt: as213151.net
+linkedin: ChristianElsen
+github: chriselsen
+twitter: ChristianElsen
+
+style: styles
