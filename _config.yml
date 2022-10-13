@@ -1,18 +1,16 @@
 
-title: Christian Elsen
-description: Personal web page of Christian Elsen
+title: Kiem Duong
+description: Personal web page of Kiem Duong
 author: 
   twitter: ChristianElsen
-url: 'https://chris.elsen.xyz'
+url: 'https://kiemduong.github.io/'
 twitter:
   username: ChristianElsen
 social:
-  name: Christian Elsen
+  name: Kiem Duong
   links:
-    - https://twitter.com/ChristianElsen
-    - https://www.linkedin.com/in/ChristianElsen
-    - https://plus.google.com/+ChristianElsen
-    - https://github.com/chriselsen
+    - https://www.linkedin.com/kiemduong77
+    - https://github.com/kiemduong
 seo:
   type: Person
 markdown: kramdown
@@ -23,15 +21,13 @@ plugins:
   - jekyll-seo-tag
 
 #Profile information
-name: Christian Elsen
+name: Kiem Duong
 tagline: Technology Generalist
 pic: profile.png
 
 #Sidebar links
-website: edge-cloud.net
-websitealt: as213151.net
-linkedin: ChristianElsen
-github: chriselsen
-twitter: ChristianElsen
+linkedin: kiemduong77
+github: kiemduong
+
 
 style: styles
