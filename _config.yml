@@ -3,15 +3,15 @@ title: Kiem Duong
 description: Personal web page of Kiem Duong
 author: 
   twitter: DuongvanKiem
-url: 'https://kiemduong.github.io'
+url: 'kiemduong.github.io'
 twitter:
   username: Kiem Duong
 social:
   name: Kiem Duong
   links:
-    - https://twitter.com/DuongvanKiem
-    - https://www.linkedin.com/kiemduong77
-    - https://github.com/kiemduong
+    - twitter.com/DuongvanKiem
+    - www.linkedin.com/kiemduong77
+    - github.com/kiemduong
 seo:
   type: Person
 markdown: kramdown
